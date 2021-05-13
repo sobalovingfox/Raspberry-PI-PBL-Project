@@ -1,0 +1,23 @@
+h1 {
+  color: #990000;
+  margin-left: 15px;
+}
+
+p {
+ margin-left:15px;
+}
+
+table, th, tr, td {
+  border: 2px solid black;
+  margin-left: 25px;
+}
+
+body {
+  background-image: url("https://drive.google.com/thumbnail?id=19rjGeWh_oU72aqB1JDxWGEQNf16fJofz"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  margin-left: 15px;
+}
